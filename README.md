@@ -1,3 +1,7 @@
+PARA PROBAR LAS CONSULTAS USAR:
+```js
+npm i
+```
 1. **Obtener todos los productos en stock:**
 
    ```sql
